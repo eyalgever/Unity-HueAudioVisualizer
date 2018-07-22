@@ -1,0 +1,95 @@
+{
+  "HueKey": "SS7E21kdU7sgrkULa-W6XZZXnSxdFTIGBG3xh7ek",
+  "HueStreamingKey": "4B893F6F6E90EF7A3345300C1D70AA57",
+  "GroupSettings": [
+    {
+      "GroupId": "2",
+      "GroupName": "Entertainment area 1",
+      "LightProfiles": [
+        {
+          "Name": "EDM - 6 Lights",
+          "LightSettings": [
+            {
+              "LightId": 6,
+              "SpectrumBand": 0,
+              "MinBrightness": 0.0,
+              "Reactivity": 0.2,
+              "Color": {
+                "r": 15,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              },
+              "AutoColor": true
+            },
+            {
+              "LightId": 1,
+              "SpectrumBand": 16,
+              "MinBrightness": 0.0,
+              "Reactivity": 0.6745257,
+              "Color": {
+                "r": 255,
+                "g": 0,
+                "b": 158,
+                "a": 255
+              },
+              "AutoColor": true
+            },
+            {
+              "LightId": 2,
+              "SpectrumBand": 26,
+              "MinBrightness": 0.0,
+              "Reactivity": 0.54965,
+              "Color": {
+                "r": 0,
+                "g": 135,
+                "b": 255,
+                "a": 255
+              },
+              "AutoColor": true
+            },
+            {
+              "LightId": 3,
+              "SpectrumBand": 15,
+              "MinBrightness": 0.0,
+              "Reactivity": 0.5496504,
+              "Color": {
+                "r": 133,
+                "g": 0,
+                "b": 255,
+                "a": 255
+              },
+              "AutoColor": true
+            },
+            {
+              "LightId": 4,
+              "SpectrumBand": 26,
+              "MinBrightness": 0.0,
+              "Reactivity": 0.64955014,
+              "Color": {
+                "r": 0,
+                "g": 255,
+                "b": 31,
+                "a": 255
+              },
+              "AutoColor": true
+            },
+            {
+              "LightId": 5,
+              "SpectrumBand": 0,
+              "MinBrightness": 0.0,
+              "Reactivity": 0.2,
+              "Color": {
+                "r": 167,
+                "g": 255,
+                "b": 0,
+                "a": 255
+              },
+              "AutoColor": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
